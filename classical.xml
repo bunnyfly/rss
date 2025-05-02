@@ -2,6 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Classical Radio</title>
+    <itunes:subtitle>bunnyfly</itunes:subtitle>
     <description>My classical radio subs</description>
     <language>en-us</language>
 

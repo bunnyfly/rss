@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Jazz Radio</title>
+    <description>My jazz radio subs</description>
+    <language>en-us</language>
+
+    <!-- Stations -->
+
+    <item>
+      <title>KMHD - Jazz Without Boundaries (aac)</title>
+      <enclosure length="0" type="audio/mpeg" url="https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8"/>
+    </item>
+
+    <item>
+      <title>KMHD - Jazz Without Boundaries (mp3)</title>
+      <enclosure length="0" type="audio/mpeg" url="https://api.spreaker.com/v2/episodes/57033473/play.mp3"/>
+    </item>
+
+    <item>
+      <title>WWOZ - New Orleans Jazz</title>
+      <enclosure length="0" type="audio/mpeg" url="http://wwoz-sc.streamguys.com/wwoz-hi.mp3"/>
+    </item>
+
+    <item>
+      <title>KCSM - Bay Area Jazz</title>
+      <enclosure length="0" type="audio/mpeg" url="http://ice7.securenetsystems.net/KCSM2"/>
+    </item>
+ 
+    <item>
+      <title>Linn Jazz</title>
+      <enclosure length="0" type="audio/mpeg" url="http://radio.linn.co.uk:8000/autodj.m3u"/>
+    </item>
+
+    <item>
+      <title>Adroit Jazz Underground</title>
+      <enclosure length="0" type="audio/mpeg" url="https://icecast.walmradio.com:8443/jazz"/>
+    </item>
+
+  </channel>
+</rss>
+
